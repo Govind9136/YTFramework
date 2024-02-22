@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test thread-count="5" name="Default XmlTest name 8b5385a3-255a-4e23-a289-506cdc0ea360(failed)">
+    <classes>
+      <class name="org.testing.TestScripts.Trending">
+        <methods>
+          <include name="CloseBrowser"/>
+          <include name="Clickontrending"/>
+          <include name="Bmethod"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.Trending -->
+      <class name="org.testing.TestScripts.videoplaySubscribedChan">
+        <methods>
+          <include name="CloseBrowser"/>
+          <include name="videoplayChan"/>
+          <include name="Bmethod"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.videoplaySubscribedChan -->
+    </classes>
+  </test> <!-- Default XmlTest name 8b5385a3-255a-4e23-a289-506cdc0ea360(failed) -->
+</suite> <!-- Failed suite [Suite] -->

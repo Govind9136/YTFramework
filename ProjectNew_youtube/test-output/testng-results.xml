@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-22T16:26:24 IST" name="Suite" finished-at="2024-02-22T16:38:11 IST" duration-ms="706614">
+    <groups>
+    </groups>
+    <test started-at="2024-02-22T16:26:24 IST" name="Default XmlTest name 8e06b1ca-c5ec-4fa7-b825-527c72da3ee1" finished-at="2024-02-22T16:38:11 IST" duration-ms="706614">
+      <class name="org.testing.TestScripts.Likedvideo">
+        <test-method is-config="true" signature="Bmethod()[pri:0, instance:org.testing.TestScripts.Likedvideo@10e41621]" started-at="2024-02-22T16:35:29 IST" name="Bmethod" finished-at="2024-02-22T16:35:50 IST" duration-ms="21337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bmethod -->
+        <test-method signature="likedvideo()[pri:0, instance:org.testing.TestScripts.Likedvideo@10e41621]" started-at="2024-02-22T16:35:50 IST" name="likedvideo" finished-at="2024-02-22T16:36:44 IST" duration-ms="54517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- likedvideo -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:org.testing.TestScripts.Likedvideo@10e41621]" started-at="2024-02-22T16:36:44 IST" name="CloseBrowser" finished-at="2024-02-22T16:36:45 IST" duration-ms="453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- org.testing.TestScripts.Likedvideo -->
+      <class name="org.testing.TestScripts.Assertions">
+        <test-method is-config="true" signature="Bmethod()[pri:0, instance:org.testing.TestScripts.Assertions@2667f029]" started-at="2024-02-22T16:37:54 IST" name="Bmethod" finished-at="2024-02-22T16:38:10 IST" duration-ms="15951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bmethod -->
+        <test-method signature="test()[pri:0, instance:org.testing.TestScripts.Assertions@2667f029]" started-at="2024-02-22T16:38:10 IST" name="test" finished-at="2024-02-22T16:38:10 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:org.testing.TestScripts.Assertions@2667f029]" started-at="2024-02-22T16:38:10 IST" name="CloseBrowser" finished-at="2024-02-22T16:38:11 IST" duration-ms="493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- org.testing.TestScripts.Assertions -->
+      <class name="org.testing.TestScripts.Homebutton">
+        <test-method is-config="true" signature="Bmethod()[pri:0, instance:org.testing.TestScripts.Homebutton@353d0772]" started-at="2024-02-22T16:36:45 IST" name="Bmethod" finished-at="2024-02-22T16:37:01 IST" duration-ms="16569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bmethod -->
+        <test-method signature="clickonHomebutton()[pri:0, instance:org.testing.TestScripts.Homebutton@353d0772]" started-at="2024-02-22T16:37:01 IST" name="clickonHomebutton" finished-at="2024-02-22T16:37:54 IST" duration-ms="52536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonHomebutton -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:org.testing.TestScripts.Homebutton@353d0772]" started-at="2024-02-22T16:37:54 IST" name="CloseBrowser" finished-at="2024-02-22T16:37:54 IST" duration-ms="374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- org.testing.TestScripts.Homebutton -->
+      <class name="org.testing.TestScripts.videoplaylike">
+        <test-method is-config="true" signature="Bmethod()[pri:0, instance:org.testing.TestScripts.videoplaylike@34b7ac2f]" started-at="2024-02-22T16:30:05 IST" name="Bmethod" finished-at="2024-02-22T16:30:22 IST" duration-ms="17566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bmethod -->
+        <test-method signature="videoplayandliked()[pri:0, instance:org.testing.TestScripts.videoplaylike@34b7ac2f]" started-at="2024-02-22T16:30:22 IST" name="videoplayandliked" finished-at="2024-02-22T16:31:31 IST" duration-ms="69178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- videoplayandliked -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:org.testing.TestScripts.videoplaylike@34b7ac2f]" started-at="2024-02-22T16:31:31 IST" name="CloseBrowser" finished-at="2024-02-22T16:31:32 IST" duration-ms="450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- org.testing.TestScripts.videoplaylike -->
+      <class name="org.testing.TestScripts.Subscriptions">
+        <test-method is-config="true" signature="Bmethod()[pri:0, instance:org.testing.TestScripts.Subscriptions@6e4784bc]" started-at="2024-02-22T16:28:52 IST" name="Bmethod" finished-at="2024-02-22T16:29:12 IST" duration-ms="20404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bmethod -->
+        <test-method signature="ClickonSubcription()[pri:0, instance:org.testing.TestScripts.Subscriptions@6e4784bc]" started-at="2024-02-22T16:29:12 IST" name="ClickonSubcription" finished-at="2024-02-22T16:30:04 IST" duration-ms="51842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickonSubcription -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:org.testing.TestScripts.Subscriptions@6e4784bc]" started-at="2024-02-22T16:30:04 IST" name="CloseBrowser" finished-at="2024-02-22T16:30:05 IST" duration-ms="418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- org.testing.TestScripts.Subscriptions -->
+      <class name="org.testing.TestScripts.videoplaySubscribedChan">
+        <test-method is-config="true" signature="Bmethod()[pri:0, instance:org.testing.TestScripts.videoplaySubscribedChan@e056f20]" started-at="2024-02-22T16:31:32 IST" name="Bmethod" finished-at="2024-02-22T16:31:54 IST" duration-ms="22211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bmethod -->
+        <test-method signature="videoplayChan()[pri:0, instance:org.testing.TestScripts.videoplaySubscribedChan@e056f20]" started-at="2024-02-22T16:31:54 IST" name="videoplayChan" finished-at="2024-02-22T16:32:59 IST" duration-ms="64979" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- videoplayChan -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:org.testing.TestScripts.videoplaySubscribedChan@e056f20]" started-at="2024-02-22T16:32:59 IST" name="CloseBrowser" finished-at="2024-02-22T16:33:00 IST" duration-ms="481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- org.testing.TestScripts.videoplaySubscribedChan -->
+      <class name="org.testing.TestScripts.History">
+        <test-method is-config="true" signature="Bmethod()[pri:0, instance:org.testing.TestScripts.History@5a63f509]" started-at="2024-02-22T16:27:37 IST" name="Bmethod" finished-at="2024-02-22T16:27:58 IST" duration-ms="21116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bmethod -->
+        <test-method signature="ClickonHistory()[pri:0, instance:org.testing.TestScripts.History@5a63f509]" started-at="2024-02-22T16:27:58 IST" name="ClickonHistory" finished-at="2024-02-22T16:28:51 IST" duration-ms="53084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickonHistory -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:org.testing.TestScripts.History@5a63f509]" started-at="2024-02-22T16:28:51 IST" name="CloseBrowser" finished-at="2024-02-22T16:28:52 IST" duration-ms="684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- org.testing.TestScripts.History -->
+      <class name="org.testing.TestScripts.Youbutton">
+        <test-method is-config="true" signature="Bmethod()[pri:0, instance:org.testing.TestScripts.Youbutton@4b0b0854]" started-at="2024-02-22T16:33:00 IST" name="Bmethod" finished-at="2024-02-22T16:33:16 IST" duration-ms="16555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bmethod -->
+        <test-method signature="You()[pri:0, instance:org.testing.TestScripts.Youbutton@4b0b0854]" started-at="2024-02-22T16:33:16 IST" name="You" finished-at="2024-02-22T16:34:14 IST" duration-ms="58400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- You -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:org.testing.TestScripts.Youbutton@4b0b0854]" started-at="2024-02-22T16:34:14 IST" name="CloseBrowser" finished-at="2024-02-22T16:34:15 IST" duration-ms="388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- org.testing.TestScripts.Youbutton -->
+      <class name="org.testing.TestScripts.Sorts">
+        <test-method is-config="true" signature="Bmethod()[pri:0, instance:org.testing.TestScripts.Sorts@19bb07ed]" started-at="2024-02-22T16:34:15 IST" name="Bmethod" finished-at="2024-02-22T16:34:37 IST" duration-ms="22387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bmethod -->
+        <test-method signature="ClickonSortsbutton()[pri:0, instance:org.testing.TestScripts.Sorts@19bb07ed]" started-at="2024-02-22T16:34:37 IST" name="ClickonSortsbutton" finished-at="2024-02-22T16:35:28 IST" duration-ms="50863" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickonSortsbutton -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:org.testing.TestScripts.Sorts@19bb07ed]" started-at="2024-02-22T16:35:28 IST" name="CloseBrowser" finished-at="2024-02-22T16:35:29 IST" duration-ms="389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- org.testing.TestScripts.Sorts -->
+      <class name="org.testing.TestScripts.Trending">
+        <test-method is-config="true" signature="Bmethod()[pri:0, instance:org.testing.TestScripts.Trending@7adda9cc]" started-at="2024-02-22T16:26:24 IST" name="Bmethod" finished-at="2024-02-22T16:26:42 IST" duration-ms="17321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bmethod -->
+        <test-method signature="Clickontrending()[pri:0, instance:org.testing.TestScripts.Trending@7adda9cc]" started-at="2024-02-22T16:26:42 IST" name="Clickontrending" finished-at="2024-02-22T16:27:37 IST" duration-ms="55229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Clickontrending -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:org.testing.TestScripts.Trending@7adda9cc]" started-at="2024-02-22T16:27:37 IST" name="CloseBrowser" finished-at="2024-02-22T16:27:37 IST" duration-ms="277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- org.testing.TestScripts.Trending -->
+    </test> <!-- Default XmlTest name 8e06b1ca-c5ec-4fa7-b825-527c72da3ee1 -->
+  </suite> <!-- Suite -->
+</testng-results>

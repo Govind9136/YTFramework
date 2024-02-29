@@ -13,12 +13,12 @@ public class WatchLater extends base
 	public void clickonwatchlater() throws Exception {
 	
 	Login login=new Login(driver,pr);
-	login.Signin();
+	login.Signin("deepusingh201301@gmail.com","Govind@123");
 	
 	You you=new You(driver,pr);
-	you.clickonHistry();
+	you.clickonWatchLater();
 	
-	ScreenshotCapture.takescreenshot(driver, "C:\\Users\\gsc91\\Desktop\\Screenshot_parabank\\History.jpg");
+	ScreenshotCapture.takescreenshot(driver, "C:\\Users\\gsc91\\Desktop\\Screenshot_parabank\\Watchlater.jpg");
 
 	Logout logout=new Logout(driver,pr);
 	logout.Logout();

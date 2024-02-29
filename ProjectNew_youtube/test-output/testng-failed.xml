@@ -1,22 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [Suite]">
-  <test thread-count="5" name="Default XmlTest name 8b5385a3-255a-4e23-a289-506cdc0ea360(failed)">
+  <test thread-count="5" name="Default XmlTest name 422d47b8-1820-4f39-901a-2265f4b8dd18(failed)">
     <classes>
-      <class name="org.testing.TestScripts.Trending">
+      <class name="org.testing.TestScripts.loginwithdifferentScenarios">
         <methods>
           <include name="CloseBrowser"/>
-          <include name="Clickontrending"/>
+          <include name="loginwithdifferent" invocation-numbers="1 2"/>
           <include name="Bmethod"/>
         </methods>
-      </class> <!-- org.testing.TestScripts.Trending -->
-      <class name="org.testing.TestScripts.videoplaySubscribedChan">
-        <methods>
-          <include name="CloseBrowser"/>
-          <include name="videoplayChan"/>
-          <include name="Bmethod"/>
-        </methods>
-      </class> <!-- org.testing.TestScripts.videoplaySubscribedChan -->
+      </class> <!-- org.testing.TestScripts.loginwithdifferentScenarios -->
     </classes>
-  </test> <!-- Default XmlTest name 8b5385a3-255a-4e23-a289-506cdc0ea360(failed) -->
+  </test> <!-- Default XmlTest name 422d47b8-1820-4f39-901a-2265f4b8dd18(failed) -->
 </suite> <!-- Failed suite [Suite] -->

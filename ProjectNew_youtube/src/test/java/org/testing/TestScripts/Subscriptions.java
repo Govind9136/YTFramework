@@ -13,7 +13,7 @@ public class Subscriptions extends base
 	public void ClickonSubcription() throws Exception
 	{
 		Login login=new Login(driver,pr);
-		login.Signin();
+		login.Signin("deepusingh201301@gmail.com","Govind@123");
 		
 		Home home=new Home(driver,pr);
 		home.clickonSubscriptions();

@@ -13,7 +13,7 @@ public class Sorts extends base
 	public void ClickonSortsbutton() throws Exception
 	{
 		Login login=new Login(driver,pr);
-		login.Signin();
+		login.Signin("deepusingh201301@gmail.com","Govind@123");
 		
 		Home home=new Home(driver,pr);
 		home.clickonSorts();

@@ -3,18 +3,19 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="org.testing.TestScripts.Sorts"/>
       <class name="org.testing.TestScripts.WatchLater"/>
       <class name="org.testing.TestScripts.Assertions"/>
-      <class name="org.testing.TestScripts.Homebutton"/>
       <class name="org.testing.TestScripts.Commentonvideo"/>
-      <class name="org.testing.TestScripts.History"/>
       <class name="org.testing.TestScripts.videoplaySubscribedChan"/>
+      <class name="org.testing.TestScripts.Likedvideo"/>
+      <class name="org.testing.TestScripts.Trending"/>
+      <class name="org.testing.TestScripts.Sorts"/>
+      <class name="org.testing.TestScripts.Homebutton"/>
+      <class name="org.testing.TestScripts.History"/>
       <class name="org.testing.TestScripts.Youbutton"/>
       <class name="org.testing.TestScripts.videoplaylike"/>
       <class name="org.testing.TestScripts.Subscriptions"/>
-      <class name="org.testing.TestScripts.Likedvideo"/>
-      <class name="org.testing.TestScripts.Trending"/>
+      <class name="org.testing.TestScripts.loginwithdifferentScenarios"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

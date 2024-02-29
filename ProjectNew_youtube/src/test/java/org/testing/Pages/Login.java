@@ -16,19 +16,19 @@ public class Login{
 			this.pr=pr;
 		}
 		
-		public void Signin () throws Exception {
+		public void Signin (String userid,String password) throws Exception {
 
 			WebElement Sign=driver.findElement(By.xpath(pr.getProperty("Sign")));
 			Sign.click();
 			Thread.sleep(5000);
 			WebElement userId=driver.findElement(By.xpath(pr.getProperty("user")));
-			userId.sendKeys("deepusingh201301@gmail.com");
+			userId.sendKeys(userid);
 			Thread.sleep(5000);
 			WebElement Next=driver.findElement(By.xpath(pr.getProperty("Next")));
 			Next.click();
 			Thread.sleep(5000);
 			WebElement password1=driver.findElement(By.xpath(pr.getProperty("password")));
-			password1.sendKeys("Govind@123");
+			password1.sendKeys(password);
 			Thread.sleep(5000);
 			WebElement next1=driver.findElement(By.xpath(pr.getProperty("Next1")));
 			next1.click();

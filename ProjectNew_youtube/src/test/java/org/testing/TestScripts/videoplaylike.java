@@ -13,7 +13,7 @@ public class videoplaylike extends base
 	public void videoplayandliked() throws Exception
 	{
 		Login login=new Login(driver,pr);
-		login.Signin();
+		login.Signin("deepusingh201301@gmail.com","Govind@123");
 	
 		
 		videoplay videoplay=new videoplay(driver,pr);

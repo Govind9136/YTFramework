@@ -13,7 +13,7 @@ public class Trending extends base
 	public void Clickontrending() throws Exception
 	{
 		Login login=new Login(driver,pr);
-		login.Signin();
+		login.Signin("deepusingh201301@gmail.com","Govind@123");
 		
 		Explore explore=new Explore(driver,pr);
 		explore.ClickonTrending();

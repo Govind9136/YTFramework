@@ -13,7 +13,7 @@ public class Assertions extends base
 	public void test() throws Exception
 	{
 		assertEquals("https://www.youtube.com/","https://www.youtube.com/");
-		Assertions1.assert1("https://www.youtube.com","https://www.youtube.com/");
+		Assertions1.assert1(driver.getCurrentUrl(),"https://www.youtube.com/");
 	
 	}
 		
